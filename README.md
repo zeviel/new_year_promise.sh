@@ -3,6 +3,6 @@ Web-API for [New Year Promise](https://vk.com/promise_app) an vk service to crea
 
 ## Example
 ```bash
-source new_year_promise.sh
+source ./new_year_promise.sh
 authenticate "sign" "vk_user_id" "vk_ts" "vk_ref"
 ```
